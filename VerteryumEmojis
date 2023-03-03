@@ -14,7 +14,7 @@ local success, err = pcall(function()
                 v.Character.Humanoid.DisplayName = "[⭐]"..v.DisplayName
                 
             elseif not v.Character.Head:FindFirstChild("OriginalSize") then
-                v.Character.Humanoid.DisplayName = "[🔒]"..v.DisplayName
+                v.Character.Humanoid.DisplayName = "[🤓]"..v.DisplayName
                 
             end
         end
